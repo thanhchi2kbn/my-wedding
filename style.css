@@ -158,3 +158,9 @@
     font-style: normal;
     text-align: center;
 }
+
+@media (min-width: 1025px) {
+    .main {
+        display: none;
+    }
+}
